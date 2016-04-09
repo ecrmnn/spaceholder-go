@@ -9,7 +9,7 @@ Spaceholder makes it easy to download placeholder images when you need them.
 Images are downloaded from LoremPixel.com, Placehold.it, PlaceIMG.com, Dummyimage.com, Unsplash.it.
 
 ### Installation
-Clone, build ``go build spaceholder-go`` and move to ``/usr/local/bin``
+Clone, build ``go build -o spaceholder github.com/ecrmnn/spaceholder-go`` and move to ``/usr/local/bin``
 
 ### Usage
 ```bash
