@@ -45,11 +45,11 @@ func unsplash(size string) string {
 }
 
 func dummyImage(size string) string {
-	return "http://dummyimage.com/" + size + "/000/fff"
+	return "https://dummyimage.com/" + size + "/000/fff"
 }
 
 func fakeImg(size string) string {
-	return "http://fakeimg.pl/" + size + "/384f66/ecf0f1/?text=Spaceholder&font=lobster"
+	return "https://fakeimg.pl/" + size + "/384f66/ecf0f1/?text=Spaceholder&font=lobster"
 }
 
 func placeImg(size string) string {
